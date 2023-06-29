@@ -1,0 +1,26 @@
+
+
+Create provider.tf
+
+Then initialize
+
+   terraform init
+
+
+
+Check files
+
+  terraform plan
+
+Apply
+
+terraform apply -auto-approve
+
+
+Destroy
+
+terraform destroy -auto-approve
+
+
+ ssh ec2-user@44.203.193.55
+
